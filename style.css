@@ -1,0 +1,34 @@
+.gem {
+    width: 75px;
+    height: 75px;
+    border-radius: 50%;
+    position: absolute;
+}
+
+.red {
+    background: radial-gradient(circle at 50% 120%, #000000, red 60%, #FFFFFF 100%);
+}
+
+.purple {
+    background: radial-gradient(circle at 50% 120%, #000000, purple 60%, #FFFFFF 100%);
+}
+
+.pink {
+    background: radial-gradient(circle at 50% 120%, #000000, #ff69b4 60%, #FFFFFF 100%);
+}
+
+.blue {
+    background: radial-gradient(circle at 50% 120%, #000000, blue 60%, #FFFFFF 100%);
+}
+
+.green {
+    background: radial-gradient(circle at 50% 120%, #000000, #00ff00 60%, #FFFFFF 100%);
+}
+
+.yellow {
+    background: radial-gradient(circle at 50% 120%, #000000, yellow 60%, #FFFFFF 100%);
+}
+
+.explode {
+    background-color: black;   
+}
